@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Vehicle",
+  "description": "One vehicle in the Northbound Logistics fleet. Flat on purpose, so one vehicle can be updated without touching the others.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "status", "lat", "lng", "lastUpdate"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^V-[0-9]{3,}$", "description": "Unique id, V-001 to V-400" },
+    "name": { "type": "string", "minLength": 1, "description": "Display name, for example Van NB-017" },
+    "status": { "enum": ["active", "idle", "maintenance", "offline"] },
+    "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+    "lng": { "type": "number", "minimum": -180, "maximum": 180 },
+    "lastUpdate": { "type": "string", "format": "date-time", "description": "ISO 8601 timestamp (UTC)" }
+  }
+}
