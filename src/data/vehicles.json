@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "V-001",
+    "name": "Pickup NB-001",
+    "status": "active",
+    "lat": 53.52787,
+    "lng": -2.21605,
+    "lastUpdate": "2026-10-23T03:48:17.000Z"
+  },
+  {
+    "id": "V-002",
+    "name": "Pickup NB-002",
+    "status": "active",
+    "lat": 53.49371,
+    "lng": -2.17691,
+    "lastUpdate": "2026-10-22T20:39:52.000Z"
+  },
+  {
+    "id": "V-003",
+    "name": "Van NB-003",
+    "status": "offline",
+    "lat": 53.51186,
+    "lng": -2.2886,
+    "lastUpdate": "2026-10-23T03:15:58.000Z"
+  },
+  {
+    "id": "V-004",
+    "name": "Pickup NB-004",
+    "status": "idle",
+    "lat": 53.49159,
+    "lng": -2.34923,
+    "lastUpdate": "2026-10-22T20:42:05.000Z"
+  },
+  {
+    "id": "V-005",
+    "name": "Lorry NB-005",
+    "status": "active",
+    "lat": 53.48885,
+    "lng": -2.34369,
+    "lastUpdate": "2026-10-23T01:35:36.000Z"
+  },
+  {
+    "id": "V-006",
+    "name": "Van NB-006",
+    "status": "active",
+    "lat": 53.51753,
+    "lng": -2.24393,
+    "lastUpdate": "2026-10-23T07:20:57.000Z"
+  },
+  {
+    "id": "V-007",
+    "name": "Van NB-007",
+    "status": "maintenance",
+    "lat": 53.47316,
+    "lng": -2.1882,
+    "lastUpdate": "2026-10-23T00:19:59.000Z"
+  },
+  {
+    "id": "V-008",
+    "name": "Truck NB-008",
+    "status": "active",
+    "lat": 53.40771,
+    "lng": -2.23868,
+    "lastUpdate": "2026-10-22T17:40:43.000Z"
+  },
+  {
+    "id": "V-009",
+    "name": "Van NB-009",
+    "status": "idle",
+    "lat": 53.43143,
+    "lng": -2.28927,
+    "lastUpdate": "2026-10-22T14:16:24.000Z"
+  },
+  {
+    "id": "V-010",
+    "name": "Lorry NB-010",
+    "status": "active",
+    "lat": 53.43063,
+    "lng": -2.29316,
+    "lastUpdate": "2026-10-23T00:58:06.000Z"
+  },
+  {
+    "id": "V-011",
+    "name": "Van NB-011",
+    "status": "idle",
+    "lat": 53.50212,
+    "lng": -2.21138,
+    "lastUpdate": "2026-10-22T09:43:55.000Z"
+  },
+  {
+    "id": "V-012",
+    "name": "Van NB-012",
+    "status": "offline",
+    "lat": 53.46467,
+    "lng": -2.16154,
+    "lastUpdate": "2026-10-23T04:42:18.000Z"
+  },
+  {
+    "id": "V-013",
+    "name": "Van NB-013",
+    "status": "active",
+    "lat": 53.45407,
+    "lng": -2.25366,
+    "lastUpdate": "2026-10-22T17:18:50.000Z"
+  },
+  {
+    "id": "V-014",
+    "name": "Lorry NB-014",
+    "status": "active",
+    "lat": 53.50794,
+    "lng": -2.16303,
+    "lastUpdate": "2026-10-23T01:19:20.000Z"
+  },
+  {
+    "id": "V-015",
+    "name": "Pickup NB-015",
+    "status": "active",
+    "lat": 53.47805,
+    "lng": -2.18562,
+    "lastUpdate": "2026-10-23T05:06:21.000Z"
+  },
+  {
+    "id": "V-016",
+    "name": "Lorry NB-016",
+    "status": "idle",
+    "lat": 53.53742,
+    "lng": -2.2632,
+    "lastUpdate": "2026-10-22T18:07:02.000Z"
+  },
+  {
+    "id": "V-017",
+    "name": "Truck NB-017",
+    "status": "idle",
+    "lat": 53.44844,
+    "lng": -2.20412,
+    "lastUpdate": "2026-10-23T00:54:54.000Z"
+  },
+  {
+    "id": "V-018",
+    "name": "Truck NB-018",
+    "status": "maintenance",
+    "lat": 53.50426,
+    "lng": -2.1512,
+    "lastUpdate": "2026-10-22T10:38:07.000Z"
+  },
+  {
+    "id": "V-019",
+    "name": "Truck NB-019",
+    "status": "active",
+    "lat": 53.44439,
+    "lng": -2.32982,
+    "lastUpdate": "2026-10-22T15:16:44.000Z"
+  },
+  {
+    "id": "V-020",
+    "name": "Truck NB-020",
+    "status": "maintenance",
+    "lat": 53.53572,
+    "lng": -2.33127,
+    "lastUpdate": "2026-10-22T20:35:27.000Z"
+  },
+  {
+    "id": "V-021",
+    "name": "Lorry NB-021",
+    "status": "active",
+    "lat": 53.54591,
+    "lng": -2.31432,
+    "lastUpdate": "2026-10-22T14:58:26.000Z"
+  },
+  {
+    "id": "V-022",
+    "name": "Pickup NB-022",
+    "status": "active",
+    "lat": 53.46193,
+    "lng": -2.31731,
+    "lastUpdate": "2026-10-22T16:17:17.000Z"
+  },
+  {
+    "id": "V-023",
+    "name": "Truck NB-023",
+    "status": "active",
+    "lat": 53.49434,
+    "lng": -2.17262,
+    "lastUpdate": "2026-10-23T00:10:01.000Z"
+  },
+  {
+    "id": "V-024",
+    "name": "Lorry NB-024",
+    "status": "active",
+    "lat": 53.41971,
+    "lng": -2.17726,
+    "lastUpdate": "2026-10-22T23:07:38.000Z"
+  },
+  {
+    "id": "V-025",
+    "name": "Van NB-025",
+    "status": "idle",
+    "lat": 53.49529,
+    "lng": -2.17482,
+    "lastUpdate": "2026-10-22T10:12:15.000Z"
+  },
+  {
+    "id": "V-026",
+    "name": "Van NB-026",
+    "status": "idle",
+    "lat": 53.47339,
+    "lng": -2.3132,
+    "lastUpdate": "2026-10-23T06:51:39.000Z"
+  },
+  {
+    "id": "V-027",
+    "name": "Pickup NB-027",
+    "status": "idle",
+    "lat": 53.44372,
+    "lng": -2.2949,
+    "lastUpdate": "2026-10-22T23:55:18.000Z"
+  },
+  {
+    "id": "V-028",
+    "name": "Van NB-028",
+    "status": "active",
+    "lat": 53.54903,
+    "lng": -2.23553,
+    "lastUpdate": "2026-10-22T08:16:29.000Z"
+  },
+  {
+    "id": "V-029",
+    "name": "Van NB-029",
+    "status": "active",
+    "lat": 53.48414,
+    "lng": -2.2915,
+    "lastUpdate": "2026-10-22T22:31:42.000Z"
+  },
+  {
+    "id": "V-030",
+    "name": "Truck NB-030",
+    "status": "active",
+    "lat": 53.50292,
+    "lng": -2.2703,
+    "lastUpdate": "2026-10-22T23:56:00.000Z"
+  },
+  {
+    "id": "V-031",
+    "name": "Lorry NB-031",
+    "status": "active",
+    "lat": 53.47429,
+    "lng": -2.22783,
+    "lastUpdate": "2026-10-22T18:53:15.000Z"
+  },
+  {
+    "id": "V-032",
+    "name": "Pickup NB-032",
+    "status": "active",
+    "lat": 53.4488,
+    "lng": -2.29024,
+    "lastUpdate": "2026-10-23T00:18:24.000Z"
+  },
+  {
+    "id": "V-033",
+    "name": "Pickup NB-033",
+    "status": "active",
+    "lat": 53.4254,
+    "lng": -2.211,
+    "lastUpdate": "2026-10-23T00:27:32.000Z"
+  },
+  {
+    "id": "V-034",
+    "name": "Van NB-034",
+    "status": "active",
+    "lat": 53.40636,
+    "lng": -2.23449,
+    "lastUpdate": "2026-10-23T03:00:56.000Z"
+  },
+  {
+    "id": "V-035",
+    "name": "Truck NB-035",
+    "status": "active",
+    "lat": 53.50681,
+    "lng": -2.16747,
+    "lastUpdate": "2026-10-22T12:31:10.000Z"
+  },
+  {
+    "id": "V-036",
+    "name": "Truck NB-036",
+    "status": "active",
+    "lat": 53.53014,
+    "lng": -2.24486,
+    "lastUpdate": "2026-10-22T11:49:52.000Z"
+  },
+  {
+    "id": "V-037",
+    "name": "Lorry NB-037",
+    "status": "active",
+    "lat": 53.42199,
+    "lng": -2.22625,
+    "lastUpdate": "2026-10-22T12:37:05.000Z"
+  },
+  {
+    "id": "V-038",
+    "name": "Van NB-038",
+    "status": "active",
+    "lat": 53.48185,
+    "lng": -2.1531,
+    "lastUpdate": "2026-10-22T20:11:32.000Z"
+  },
+  {
+    "id": "V-039",
+    "name": "Lorry NB-039",
+    "status": "maintenance",
+    "lat": 53.51154,
+    "lng": -2.33929,
+    "lastUpdate": "2026-10-23T06:20:09.000Z"
+  },
+  {
+    "id": "V-040",
+    "name": "Van NB-040",
+    "status": "active",
+    "lat": 53.5015,
+    "lng": -2.19784,
+    "lastUpdate": "2026-10-22T08:12:19.000Z"
+  },
+  {
+    "id": "V-041",
+    "name": "Lorry NB-041",
+    "status": "idle",
+    "lat": 53.52555,
+    "lng": -2.17941,
+    "lastUpdate": "2026-10-22T17:36:53.000Z"
+  },
+  {
+    "id": "V-042",
+    "name": "Truck NB-042",
+    "status": "active",
+    "lat": 53.53176,
+    "lng": -2.2138,
+    "lastUpdate": "2026-10-22T23:37:05.000Z"
+  },
+  {
+    "id": "V-043",
+    "name": "Lorry NB-043",
+    "status": "idle",
+    "lat": 53.4494,
+    "lng": -2.18107,
+    "lastUpdate": "2026-10-23T04:21:43.000Z"
+  },
+  {
+    "id": "V-044",
+    "name": "Truck NB-044",
+    "status": "active",
+    "lat": 53.41283,
+    "lng": -2.22047,
+    "lastUpdate": "2026-10-22T14:34:03.000Z"
+  },
+  {
+    "id": "V-045",
+    "name": "Lorry NB-045",
+    "status": "offline",
+    "lat": 53.46994,
+    "lng": -2.2085,
+    "lastUpdate": "2026-10-23T04:30:59.000Z"
+  },
+  {
+    "id": "V-046",
+    "name": "Truck NB-046",
+    "status": "active",
+    "lat": 53.40715,
+    "lng": -2.2918,
+    "lastUpdate": "2026-10-22T21:24:59.000Z"
+  },
+  {
+    "id": "V-047",
+    "name": "Pickup NB-047",
+    "status": "idle",
+    "lat": 53.51904,
+    "lng": -2.19304,
+    "lastUpdate": "2026-10-23T03:17:53.000Z"
+  },
+  {
+    "id": "V-048",
+    "name": "Pickup NB-048",
+    "status": "active",
+    "lat": 53.46653,
+    "lng": -2.25619,
+    "lastUpdate": "2026-10-22T20:58:58.000Z"
+  },
+  {
+    "id": "V-049",
+    "name": "Truck NB-049",
+    "status": "active",
+    "lat": 53.44614,
+    "lng": -2.32047,
+    "lastUpdate": "2026-10-22T19:53:23.000Z"
+  },
+  {
+    "id": "V-050",
+    "name": "Truck NB-050",
+    "status": "active",
+    "lat": 53.48219,
+    "lng": -2.22053,
+    "lastUpdate": "2026-10-22T21:30:27.000Z"
+  },
+  {
+    "id": "V-051",
+    "name": "Van NB-051",
+    "status": "active",
+    "lat": 53.42223,
+    "lng": -2.16135,
+    "lastUpdate": "2026-10-23T06:20:13.000Z"
+  },
+  {
+    "id": "V-052",
+    "name": "Lorry NB-052",
+    "status": "active",
+    "lat": 53.47537,
+    "lng": -2.33024,
+    "lastUpdate": "2026-10-22T12:16:48.000Z"
+  },
+  {
+    "id": "V-053",
+    "name": "Van NB-053",
+    "status": "active",
+    "lat": 53.43446,
+    "lng": -2.20945,
+    "lastUpdate": "2026-10-22T18:27:47.000Z"
+  },
+  {
+    "id": "V-054",
+    "name": "Van NB-054",
+    "status": "offline",
+    "lat": 53.51252,
+    "lng": -2.21776,
+    "lastUpdate": "2026-10-22T12:53:13.000Z"
+  },
+  {
+    "id": "V-055",
+    "name": "Pickup NB-055",
+    "status": "maintenance",
+    "lat": 53.47906,
+    "lng": -2.31463,
+    "lastUpdate": "2026-10-23T06:07:34.000Z"
+  },
+  {
+    "id": "V-056",
+    "name": "Van NB-056",
+    "status": "active",
+    "lat": 53.43942,
+    "lng": -2.21557,
+    "lastUpdate": "2026-10-22T15:57:34.000Z"
+  },
+  {
+    "id": "V-057",
+    "name": "Pickup NB-057",
+    "status": "offline",
+    "lat": 53.40332,
+    "lng": -2.27065,
+    "lastUpdate": "2026-10-22T23:53:31.000Z"
+  },
+  {
+    "id": "V-058",
+    "name": "Truck NB-058",
+    "status": "maintenance",
+    "lat": 53.4805,
+    "lng": -2.30901,
+    "lastUpdate": "2026-10-22T09:20:13.000Z"
+  },
+  {
+    "id": "V-059",
+    "name": "Lorry NB-059",
+    "status": "active",
+    "lat": 53.47775,
+    "lng": -2.178,
+    "lastUpdate": "2026-10-22T09:33:07.000Z"
+  },
+  {
+    "id": "V-060",
+    "name": "Pickup NB-060",
+    "status": "idle",
+    "lat": 53.52149,
+    "lng": -2.2876,
+    "lastUpdate": "2026-10-22T20:08:36.000Z"
+  },
+  {
+    "id": "V-061",
+    "name": "Lorry NB-061",
+    "status": "active",
+    "lat": 53.50309,
+    "lng": -2.23914,
+    "lastUpdate": "2026-10-22T18:53:45.000Z"
+  },
+  {
+    "id": "V-062",
+    "name": "Lorry NB-062",
+    "status": "offline",
+    "lat": 53.51498,
+    "lng": -2.28826,
+    "lastUpdate": "2026-10-22T16:50:34.000Z"
+  },
+  {
+    "id": "V-063",
+    "name": "Pickup NB-063",
+    "status": "offline",
+    "lat": 53.45803,
+    "lng": -2.17441,
+    "lastUpdate": "2026-10-23T00:23:35.000Z"
+  },
+  {
+    "id": "V-064",
+    "name": "Lorry NB-064",
+    "status": "active",
+    "lat": 53.45095,
+    "lng": -2.24343,
+    "lastUpdate": "2026-10-22T11:55:05.000Z"
+  },
+  {
+    "id": "V-065",
+    "name": "Pickup NB-065",
+    "status": "offline",
+    "lat": 53.50373,
+    "lng": -2.31983,
+    "lastUpdate": "2026-10-23T01:07:06.000Z"
+  },
+  {
+    "id": "V-066",
+    "name": "Lorry NB-066",
+    "status": "active",
+    "lat": 53.44122,
+    "lng": -2.22385,
+    "lastUpdate": "2026-10-22T13:29:28.000Z"
+  },
+  {
+    "id": "V-067",
+    "name": "Pickup NB-067",
+    "status": "idle",
+    "lat": 53.42788,
+    "lng": -2.18065,
+    "lastUpdate": "2026-10-22T10:20:19.000Z"
+  },
+  {
+    "id": "V-068",
+    "name": "Pickup NB-068",
+    "status": "active",
+    "lat": 53.41088,
+    "lng": -2.25002,
+    "lastUpdate": "2026-10-22T10:33:47.000Z"
+  },
+  {
+    "id": "V-069",
+    "name": "Pickup NB-069",
+    "status": "active",
+    "lat": 53.46642,
+    "lng": -2.22683,
+    "lastUpdate": "2026-10-22T14:47:08.000Z"
+  },
+  {
+    "id": "V-070",
+    "name": "Pickup NB-070",
+    "status": "active",
+    "lat": 53.42514,
+    "lng": -2.33049,
+    "lastUpdate": "2026-10-23T05:05:33.000Z"
+  },
+  {
+    "id": "V-071",
+    "name": "Truck NB-071",
+    "status": "maintenance",
+    "lat": 53.52568,
+    "lng": -2.21333,
+    "lastUpdate": "2026-10-23T05:57:58.000Z"
+  },
+  {
+    "id": "V-072",
+    "name": "Van NB-072",
+    "status": "active",
+    "lat": 53.505,
+    "lng": -2.29607,
+    "lastUpdate": "2026-10-22T11:27:16.000Z"
+  },
+  {
+    "id": "V-073",
+    "name": "Pickup NB-073",
+    "status": "offline",
+    "lat": 53.53322,
+    "lng": -2.28098,
+    "lastUpdate": "2026-10-23T05:36:19.000Z"
+  },
+  {
+    "id": "V-074",
+    "name": "Pickup NB-074",
+    "status": "active",
+    "lat": 53.47203,
+    "lng": -2.29425,
+    "lastUpdate": "2026-10-23T01:45:25.000Z"
+  },
+  {
+    "id": "V-075",
+    "name": "Pickup NB-075",
+    "status": "active",
+    "lat": 53.47322,
+    "lng": -2.23161,
+    "lastUpdate": "2026-10-23T05:22:56.000Z"
+  },
+  {
+    "id": "V-076",
+    "name": "Lorry NB-076",
+    "status": "idle",
+    "lat": 53.53779,
+    "lng": -2.32668,
+    "lastUpdate": "2026-10-23T06:35:21.000Z"
+  },
+  {
+    "id": "V-077",
+    "name": "Van NB-077",
+    "status": "active",
+    "lat": 53.43602,
+    "lng": -2.30401,
+    "lastUpdate": "2026-10-22T08:13:51.000Z"
+  },
+  {
+    "id": "V-078",
+    "name": "Pickup NB-078",
+    "status": "maintenance",
+    "lat": 53.45124,
+    "lng": -2.22017,
+    "lastUpdate": "2026-10-23T07:13:49.000Z"
+  },
+  {
+    "id": "V-079",
+    "name": "Pickup NB-079",
+    "status": "maintenance",
+    "lat": 53.45638,
+    "lng": -2.30911,
+    "lastUpdate": "2026-10-22T13:08:55.000Z"
+  },
+  {
+    "id": "V-080",
+    "name": "Pickup NB-080",
+    "status": "active",
+    "lat": 53.41237,
+    "lng": -2.19549,
+    "lastUpdate": "2026-10-22T21:38:28.000Z"
+  },
+  {
+    "id": "V-081",
+    "name": "Lorry NB-081",
+    "status": "maintenance",
+    "lat": 53.47403,
+    "lng": -2.15968,
+    "lastUpdate": "2026-10-23T03:47:24.000Z"
+  },
+  {
+    "id": "V-082",
+    "name": "Van NB-082",
+    "status": "idle",
+    "lat": 53.50119,
+    "lng": -2.30869,
+    "lastUpdate": "2026-10-22T13:30:58.000Z"
+  },
+  {
+    "id": "V-083",
+    "name": "Van NB-083",
+    "status": "active",
+    "lat": 53.49898,
+    "lng": -2.22944,
+    "lastUpdate": "2026-10-22T18:40:11.000Z"
+  },
+  {
+    "id": "V-084",
+    "name": "Van NB-084",
+    "status": "offline",
+    "lat": 53.47826,
+    "lng": -2.20098,
+    "lastUpdate": "2026-10-23T06:48:14.000Z"
+  },
+  {
+    "id": "V-085",
+    "name": "Lorry NB-085",
+    "status": "idle",
+    "lat": 53.44259,
+    "lng": -2.34059,
+    "lastUpdate": "2026-10-23T00:10:11.000Z"
+  },
+  {
+    "id": "V-086",
+    "name": "Pickup NB-086",
+    "status": "maintenance",
+    "lat": 53.43766,
+    "lng": -2.17744,
+    "lastUpdate": "2026-10-22T21:03:38.000Z"
+  },
+  {
+    "id": "V-087",
+    "name": "Van NB-087",
+    "status": "idle",
+    "lat": 53.47613,
+    "lng": -2.31232,
+    "lastUpdate": "2026-10-22T11:32:25.000Z"
+  },
+  {
+    "id": "V-088",
+    "name": "Van NB-088",
+    "status": "active",
+    "lat": 53.54925,
+    "lng": -2.30767,
+    "lastUpdate": "2026-10-22T20:40:55.000Z"
+  },
+  {
+    "id": "V-089",
+    "name": "Pickup NB-089",
+    "status": "idle",
+    "lat": 53.47268,
+    "lng": -2.21515,
+    "lastUpdate": "2026-10-23T04:11:58.000Z"
+  },
+  {
+    "id": "V-090",
+    "name": "Lorry NB-090",
+    "status": "maintenance",
+    "lat": 53.45195,
+    "lng": -2.30902,
+    "lastUpdate": "2026-10-22T19:33:56.000Z"
+  },
+  {
+    "id": "V-091",
+    "name": "Lorry NB-091",
+    "status": "active",
+    "lat": 53.47278,
+    "lng": -2.29956,
+    "lastUpdate": "2026-10-22T20:00:58.000Z"
+  },
+  {
+    "id": "V-092",
+    "name": "Van NB-092",
+    "status": "offline",
+    "lat": 53.45454,
+    "lng": -2.26479,
+    "lastUpdate": "2026-10-23T01:57:47.000Z"
+  },
+  {
+    "id": "V-093",
+    "name": "Pickup NB-093",
+    "status": "active",
+    "lat": 53.49988,
+    "lng": -2.33705,
+    "lastUpdate": "2026-10-22T10:22:22.000Z"
+  },
+  {
+    "id": "V-094",
+    "name": "Lorry NB-094",
+    "status": "idle",
+    "lat": 53.52151,
+    "lng": -2.33925,
+    "lastUpdate": "2026-10-22T17:55:12.000Z"
+  },
+  {
+    "id": "V-095",
+    "name": "Pickup NB-095",
+    "status": "active",
+    "lat": 53.47687,
+    "lng": -2.25492,
+    "lastUpdate": "2026-10-22T21:11:14.000Z"
+  },
+  {
+    "id": "V-096",
+    "name": "Pickup NB-096",
+    "status": "active",
+    "lat": 53.50624,
+    "lng": -2.34926,
+    "lastUpdate": "2026-10-22T15:24:49.000Z"
+  },
+  {
+    "id": "V-097",
+    "name": "Van NB-097",
+    "status": "active",
+    "lat": 53.50887,
+    "lng": -2.16378,
+    "lastUpdate": "2026-10-23T01:18:14.000Z"
+  },
+  {
+    "id": "V-098",
+    "name": "Pickup NB-098",
+    "status": "offline",
+    "lat": 53.46932,
+    "lng": -2.34088,
+    "lastUpdate": "2026-10-22T18:22:54.000Z"
+  },
+  {
+    "id": "V-099",
+    "name": "Truck NB-099",
+    "status": "active",
+    "lat": 53.47025,
+    "lng": -2.19924,
+    "lastUpdate": "2026-10-23T05:05:17.000Z"
+  },
+  {
+    "id": "V-100",
+    "name": "Pickup NB-100",
+    "status": "idle",
+    "lat": 53.54184,
+    "lng": -2.18338,
+    "lastUpdate": "2026-10-22T20:29:50.000Z"
+  },
+  {
+    "id": "V-101",
+    "name": "Van NB-101",
+    "status": "offline",
+    "lat": 53.40934,
+    "lng": -2.24678,
+    "lastUpdate": "2026-10-22T20:19:01.000Z"
+  },
+  {
+    "id": "V-102",
+    "name": "Pickup NB-102",
+    "status": "idle",
+    "lat": 53.49152,
+    "lng": -2.17961,
+    "lastUpdate": "2026-10-22T16:03:26.000Z"
+  },
+  {
+    "id": "V-103",
+    "name": "Lorry NB-103",
+    "status": "offline",
+    "lat": 53.54507,
+    "lng": -2.18767,
+    "lastUpdate": "2026-10-22T09:01:19.000Z"
+  },
+  {
+    "id": "V-104",
+    "name": "Lorry NB-104",
+    "status": "active",
+    "lat": 53.41339,
+    "lng": -2.15141,
+    "lastUpdate": "2026-10-23T07:09:56.000Z"
+  },
+  {
+    "id": "V-105",
+    "name": "Truck NB-105",
+    "status": "offline",
+    "lat": 53.50188,
+    "lng": -2.19478,
+    "lastUpdate": "2026-10-23T00:08:13.000Z"
+  },
+  {
+    "id": "V-106",
+    "name": "Lorry NB-106",
+    "status": "active",
+    "lat": 53.53846,
+    "lng": -2.21885,
+    "lastUpdate": "2026-10-23T01:59:14.000Z"
+  },
+  {
+    "id": "V-107",
+    "name": "Van NB-107",
+    "status": "active",
+    "lat": 53.50869,
+    "lng": -2.33992,
+    "lastUpdate": "2026-10-23T04:41:15.000Z"
+  },
+  {
+    "id": "V-108",
+    "name": "Van NB-108",
+    "status": "idle",
+    "lat": 53.45614,
+    "lng": -2.22291,
+    "lastUpdate": "2026-10-22T08:36:47.000Z"
+  },
+  {
+    "id": "V-109",
+    "name": "Truck NB-109",
+    "status": "maintenance",
+    "lat": 53.51092,
+    "lng": -2.34679,
+    "lastUpdate": "2026-10-22T15:34:51.000Z"
+  },
+  {
+    "id": "V-110",
+    "name": "Lorry NB-110",
+    "status": "active",
+    "lat": 53.48886,
+    "lng": -2.17011,
+    "lastUpdate": "2026-10-22T20:47:40.000Z"
+  },
+  {
+    "id": "V-111",
+    "name": "Truck NB-111",
+    "status": "maintenance",
+    "lat": 53.49468,
+    "lng": -2.28698,
+    "lastUpdate": "2026-10-22T20:50:58.000Z"
+  },
+  {
+    "id": "V-112",
+    "name": "Pickup NB-112",
+    "status": "offline",
+    "lat": 53.4259,
+    "lng": -2.23109,
+    "lastUpdate": "2026-10-23T06:12:38.000Z"
+  },
+  {
+    "id": "V-113",
+    "name": "Pickup NB-113",
+    "status": "maintenance",
+    "lat": 53.46507,
+    "lng": -2.23073,
+    "lastUpdate": "2026-10-22T11:57:53.000Z"
+  },
+  {
+    "id": "V-114",
+    "name": "Truck NB-114",
+    "status": "idle",
+    "lat": 53.42535,
+    "lng": -2.15469,
+    "lastUpdate": "2026-10-23T03:38:59.000Z"
+  },
+  {
+    "id": "V-115",
+    "name": "Pickup NB-115",
+    "status": "idle",
+    "lat": 53.48501,
+    "lng": -2.24068,
+    "lastUpdate": "2026-10-22T16:52:28.000Z"
+  },
+  {
+    "id": "V-116",
+    "name": "Lorry NB-116",
+    "status": "maintenance",
+    "lat": 53.40002,
+    "lng": -2.33792,
+    "lastUpdate": "2026-10-23T05:42:24.000Z"
+  },
+  {
+    "id": "V-117",
+    "name": "Lorry NB-117",
+    "status": "active",
+    "lat": 53.4052,
+    "lng": -2.24521,
+    "lastUpdate": "2026-10-23T06:37:15.000Z"
+  },
+  {
+    "id": "V-118",
+    "name": "Pickup NB-118",
+    "status": "idle",
+    "lat": 53.40025,
+    "lng": -2.26886,
+    "lastUpdate": "2026-10-22T12:10:34.000Z"
+  },
+  {
+    "id": "V-119",
+    "name": "Truck NB-119",
+    "status": "active",
+    "lat": 53.51139,
+    "lng": -2.21947,
+    "lastUpdate": "2026-10-23T06:48:08.000Z"
+  },
+  {
+    "id": "V-120",
+    "name": "Pickup NB-120",
+    "status": "idle",
+    "lat": 53.52765,
+    "lng": -2.23399,
+    "lastUpdate": "2026-10-22T22:02:14.000Z"
+  },
+  {
+    "id": "V-121",
+    "name": "Pickup NB-121",
+    "status": "active",
+    "lat": 53.48856,
+    "lng": -2.31108,
+    "lastUpdate": "2026-10-23T04:45:22.000Z"
+  },
+  {
+    "id": "V-122",
+    "name": "Pickup NB-122",
+    "status": "idle",
+    "lat": 53.44229,
+    "lng": -2.16534,
+    "lastUpdate": "2026-10-22T09:21:38.000Z"
+  },
+  {
+    "id": "V-123",
+    "name": "Truck NB-123",
+    "status": "idle",
+    "lat": 53.45073,
+    "lng": -2.21676,
+    "lastUpdate": "2026-10-22T08:30:29.000Z"
+  },
+  {
+    "id": "V-124",
+    "name": "Lorry NB-124",
+    "status": "idle",
+    "lat": 53.4515,
+    "lng": -2.16816,
+    "lastUpdate": "2026-10-22T19:47:48.000Z"
+  },
+  {
+    "id": "V-125",
+    "name": "Lorry NB-125",
+    "status": "active",
+    "lat": 53.42261,
+    "lng": -2.28603,
+    "lastUpdate": "2026-10-22T08:24:59.000Z"
+  },
+  {
+    "id": "V-126",
+    "name": "Pickup NB-126",
+    "status": "offline",
+    "lat": 53.40319,
+    "lng": -2.21964,
+    "lastUpdate": "2026-10-22T17:30:59.000Z"
+  },
+  {
+    "id": "V-127",
+    "name": "Lorry NB-127",
+    "status": "active",
+    "lat": 53.54448,
+    "lng": -2.30522,
+    "lastUpdate": "2026-10-22T09:18:10.000Z"
+  },
+  {
+    "id": "V-128",
+    "name": "Truck NB-128",
+    "status": "active",
+    "lat": 53.45848,
+    "lng": -2.30662,
+    "lastUpdate": "2026-10-23T01:05:39.000Z"
+  },
+  {
+    "id": "V-129",
+    "name": "Lorry NB-129",
+    "status": "idle",
+    "lat": 53.44738,
+    "lng": -2.24789,
+    "lastUpdate": "2026-10-22T23:15:06.000Z"
+  },
+  {
+    "id": "V-130",
+    "name": "Truck NB-130",
+    "status": "active",
+    "lat": 53.48555,
+    "lng": -2.17004,
+    "lastUpdate": "2026-10-22T16:10:53.000Z"
+  },
+  {
+    "id": "V-131",
+    "name": "Pickup NB-131",
+    "status": "offline",
+    "lat": 53.4881,
+    "lng": -2.17916,
+    "lastUpdate": "2026-10-22T21:21:00.000Z"
+  },
+  {
+    "id": "V-132",
+    "name": "Pickup NB-132",
+    "status": "active",
+    "lat": 53.48821,
+    "lng": -2.21794,
+    "lastUpdate": "2026-10-22T16:59:04.000Z"
+  },
+  {
+    "id": "V-133",
+    "name": "Truck NB-133",
+    "status": "active",
+    "lat": 53.40081,
+    "lng": -2.20799,
+    "lastUpdate": "2026-10-22T22:49:44.000Z"
+  },
+  {
+    "id": "V-134",
+    "name": "Truck NB-134",
+    "status": "active",
+    "lat": 53.41877,
+    "lng": -2.22019,
+    "lastUpdate": "2026-10-23T01:15:11.000Z"
+  },
+  {
+    "id": "V-135",
+    "name": "Van NB-135",
+    "status": "active",
+    "lat": 53.50496,
+    "lng": -2.32268,
+    "lastUpdate": "2026-10-22T14:59:57.000Z"
+  },
+  {
+    "id": "V-136",
+    "name": "Van NB-136",
+    "status": "active",
+    "lat": 53.4931,
+    "lng": -2.28196,
+    "lastUpdate": "2026-10-22T23:36:03.000Z"
+  },
+  {
+    "id": "V-137",
+    "name": "Pickup NB-137",
+    "status": "active",
+    "lat": 53.52239,
+    "lng": -2.33314,
+    "lastUpdate": "2026-10-23T03:12:52.000Z"
+  },
+  {
+    "id": "V-138",
+    "name": "Truck NB-138",
+    "status": "offline",
+    "lat": 53.52877,
+    "lng": -2.15943,
+    "lastUpdate": "2026-10-22T20:49:17.000Z"
+  },
+  {
+    "id": "V-139",
+    "name": "Van NB-139",
+    "status": "idle",
+    "lat": 53.49181,
+    "lng": -2.19959,
+    "lastUpdate": "2026-10-22T09:25:56.000Z"
+  },
+  {
+    "id": "V-140",
+    "name": "Truck NB-140",
+    "status": "active",
+    "lat": 53.42436,
+    "lng": -2.16964,
+    "lastUpdate": "2026-10-22T18:14:26.000Z"
+  },
+  {
+    "id": "V-141",
+    "name": "Van NB-141",
+    "status": "active",
+    "lat": 53.52862,
+    "lng": -2.331,
+    "lastUpdate": "2026-10-22T19:10:19.000Z"
+  },
+  {
+    "id": "V-142",
+    "name": "Pickup NB-142",
+    "status": "idle",
+    "lat": 53.54642,
+    "lng": -2.24483,
+    "lastUpdate": "2026-10-22T15:47:55.000Z"
+  },
+  {
+    "id": "V-143",
+    "name": "Pickup NB-143",
+    "status": "offline",
+    "lat": 53.53264,
+    "lng": -2.3324,
+    "lastUpdate": "2026-10-23T02:35:42.000Z"
+  },
+  {
+    "id": "V-144",
+    "name": "Lorry NB-144",
+    "status": "active",
+    "lat": 53.50549,
+    "lng": -2.24276,
+    "lastUpdate": "2026-10-22T21:25:28.000Z"
+  },
+  {
+    "id": "V-145",
+    "name": "Truck NB-145",
+    "status": "active",
+    "lat": 53.45041,
+    "lng": -2.22101,
+    "lastUpdate": "2026-10-22T11:04:56.000Z"
+  },
+  {
+    "id": "V-146",
+    "name": "Lorry NB-146",
+    "status": "active",
+    "lat": 53.48846,
+    "lng": -2.2515,
+    "lastUpdate": "2026-10-22T19:35:57.000Z"
+  },
+  {
+    "id": "V-147",
+    "name": "Pickup NB-147",
+    "status": "idle",
+    "lat": 53.4613,
+    "lng": -2.15058,
+    "lastUpdate": "2026-10-23T02:40:47.000Z"
+  },
+  {
+    "id": "V-148",
+    "name": "Truck NB-148",
+    "status": "active",
+    "lat": 53.42318,
+    "lng": -2.34033,
+    "lastUpdate": "2026-10-23T05:05:28.000Z"
+  },
+  {
+    "id": "V-149",
+    "name": "Truck NB-149",
+    "status": "maintenance",
+    "lat": 53.47905,
+    "lng": -2.25972,
+    "lastUpdate": "2026-10-22T22:54:09.000Z"
+  },
+  {
+    "id": "V-150",
+    "name": "Lorry NB-150",
+    "status": "idle",
+    "lat": 53.46579,
+    "lng": -2.28029,
+    "lastUpdate": "2026-10-22T14:00:55.000Z"
+  },
+  {
+    "id": "V-151",
+    "name": "Truck NB-151",
+    "status": "idle",
+    "lat": 53.43959,
+    "lng": -2.32744,
+    "lastUpdate": "2026-10-22T11:44:02.000Z"
+  },
+  {
+    "id": "V-152",
+    "name": "Truck NB-152",
+    "status": "active",
+    "lat": 53.54224,
+    "lng": -2.34126,
+    "lastUpdate": "2026-10-22T13:56:39.000Z"
+  },
+  {
+    "id": "V-153",
+    "name": "Pickup NB-153",
+    "status": "active",
+    "lat": 53.49294,
+    "lng": -2.17479,
+    "lastUpdate": "2026-10-23T03:26:46.000Z"
+  },
+  {
+    "id": "V-154",
+    "name": "Lorry NB-154",
+    "status": "active",
+    "lat": 53.54581,
+    "lng": -2.2598,
+    "lastUpdate": "2026-10-22T21:58:51.000Z"
+  },
+  {
+    "id": "V-155",
+    "name": "Van NB-155",
+    "status": "active",
+    "lat": 53.40787,
+    "lng": -2.27344,
+    "lastUpdate": "2026-10-22T20:26:03.000Z"
+  },
+  {
+    "id": "V-156",
+    "name": "Truck NB-156",
+    "status": "active",
+    "lat": 53.54435,
+    "lng": -2.19687,
+    "lastUpdate": "2026-10-23T02:29:11.000Z"
+  },
+  {
+    "id": "V-157",
+    "name": "Van NB-157",
+    "status": "active",
+    "lat": 53.50337,
+    "lng": -2.19143,
+    "lastUpdate": "2026-10-22T08:34:46.000Z"
+  },
+  {
+    "id": "V-158",
+    "name": "Lorry NB-158",
+    "status": "offline",
+    "lat": 53.43689,
+    "lng": -2.20871,
+    "lastUpdate": "2026-10-22T19:47:00.000Z"
+  },
+  {
+    "id": "V-159",
+    "name": "Lorry NB-159",
+    "status": "active",
+    "lat": 53.40025,
+    "lng": -2.1817,
+    "lastUpdate": "2026-10-22T10:12:22.000Z"
+  },
+  {
+    "id": "V-160",
+    "name": "Lorry NB-160",
+    "status": "active",
+    "lat": 53.42032,
+    "lng": -2.34785,
+    "lastUpdate": "2026-10-22T09:06:18.000Z"
+  },
+  {
+    "id": "V-161",
+    "name": "Pickup NB-161",
+    "status": "idle",
+    "lat": 53.41362,
+    "lng": -2.22303,
+    "lastUpdate": "2026-10-22T15:29:14.000Z"
+  },
+  {
+    "id": "V-162",
+    "name": "Lorry NB-162",
+    "status": "active",
+    "lat": 53.52711,
+    "lng": -2.30473,
+    "lastUpdate": "2026-10-22T19:23:12.000Z"
+  },
+  {
+    "id": "V-163",
+    "name": "Truck NB-163",
+    "status": "active",
+    "lat": 53.44115,
+    "lng": -2.16997,
+    "lastUpdate": "2026-10-22T08:11:43.000Z"
+  },
+  {
+    "id": "V-164",
+    "name": "Pickup NB-164",
+    "status": "active",
+    "lat": 53.40505,
+    "lng": -2.18791,
+    "lastUpdate": "2026-10-23T07:03:01.000Z"
+  },
+  {
+    "id": "V-165",
+    "name": "Lorry NB-165",
+    "status": "active",
+    "lat": 53.54287,
+    "lng": -2.1601,
+    "lastUpdate": "2026-10-22T13:33:27.000Z"
+  },
+  {
+    "id": "V-166",
+    "name": "Van NB-166",
+    "status": "active",
+    "lat": 53.44235,
+    "lng": -2.33621,
+    "lastUpdate": "2026-10-22T16:41:23.000Z"
+  },
+  {
+    "id": "V-167",
+    "name": "Pickup NB-167",
+    "status": "idle",
+    "lat": 53.49871,
+    "lng": -2.23188,
+    "lastUpdate": "2026-10-23T06:27:54.000Z"
+  },
+  {
+    "id": "V-168",
+    "name": "Lorry NB-168",
+    "status": "idle",
+    "lat": 53.49359,
+    "lng": -2.26651,
+    "lastUpdate": "2026-10-22T12:36:15.000Z"
+  },
+  {
+    "id": "V-169",
+    "name": "Van NB-169",
+    "status": "active",
+    "lat": 53.4154,
+    "lng": -2.16226,
+    "lastUpdate": "2026-10-23T03:13:18.000Z"
+  },
+  {
+    "id": "V-170",
+    "name": "Van NB-170",
+    "status": "idle",
+    "lat": 53.49133,
+    "lng": -2.23829,
+    "lastUpdate": "2026-10-22T21:45:42.000Z"
+  },
+  {
+    "id": "V-171",
+    "name": "Truck NB-171",
+    "status": "active",
+    "lat": 53.46435,
+    "lng": -2.20513,
+    "lastUpdate": "2026-10-23T06:03:58.000Z"
+  },
+  {
+    "id": "V-172",
+    "name": "Pickup NB-172",
+    "status": "idle",
+    "lat": 53.49727,
+    "lng": -2.17439,
+    "lastUpdate": "2026-10-22T11:29:20.000Z"
+  },
+  {
+    "id": "V-173",
+    "name": "Truck NB-173",
+    "status": "maintenance",
+    "lat": 53.42203,
+    "lng": -2.25821,
+    "lastUpdate": "2026-10-22T16:19:28.000Z"
+  },
+  {
+    "id": "V-174",
+    "name": "Truck NB-174",
+    "status": "active",
+    "lat": 53.54684,
+    "lng": -2.16559,
+    "lastUpdate": "2026-10-22T21:37:08.000Z"
+  },
+  {
+    "id": "V-175",
+    "name": "Lorry NB-175",
+    "status": "offline",
+    "lat": 53.41452,
+    "lng": -2.25068,
+    "lastUpdate": "2026-10-22T11:13:37.000Z"
+  },
+  {
+    "id": "V-176",
+    "name": "Truck NB-176",
+    "status": "active",
+    "lat": 53.51975,
+    "lng": -2.28123,
+    "lastUpdate": "2026-10-22T14:37:48.000Z"
+  },
+  {
+    "id": "V-177",
+    "name": "Truck NB-177",
+    "status": "offline",
+    "lat": 53.40928,
+    "lng": -2.16025,
+    "lastUpdate": "2026-10-22T14:13:14.000Z"
+  },
+  {
+    "id": "V-178",
+    "name": "Truck NB-178",
+    "status": "active",
+    "lat": 53.44017,
+    "lng": -2.27637,
+    "lastUpdate": "2026-10-23T01:31:30.000Z"
+  },
+  {
+    "id": "V-179",
+    "name": "Van NB-179",
+    "status": "active",
+    "lat": 53.50638,
+    "lng": -2.31891,
+    "lastUpdate": "2026-10-23T01:49:29.000Z"
+  },
+  {
+    "id": "V-180",
+    "name": "Van NB-180",
+    "status": "maintenance",
+    "lat": 53.41343,
+    "lng": -2.20333,
+    "lastUpdate": "2026-10-22T18:48:41.000Z"
+  },
+  {
+    "id": "V-181",
+    "name": "Truck NB-181",
+    "status": "active",
+    "lat": 53.49642,
+    "lng": -2.23175,
+    "lastUpdate": "2026-10-23T00:46:53.000Z"
+  },
+  {
+    "id": "V-182",
+    "name": "Lorry NB-182",
+    "status": "offline",
+    "lat": 53.51096,
+    "lng": -2.21679,
+    "lastUpdate": "2026-10-22T20:26:42.000Z"
+  },
+  {
+    "id": "V-183",
+    "name": "Truck NB-183",
+    "status": "idle",
+    "lat": 53.54729,
+    "lng": -2.29025,
+    "lastUpdate": "2026-10-22T22:08:08.000Z"
+  },
+  {
+    "id": "V-184",
+    "name": "Truck NB-184",
+    "status": "active",
+    "lat": 53.50193,
+    "lng": -2.27913,
+    "lastUpdate": "2026-10-23T03:26:51.000Z"
+  },
+  {
+    "id": "V-185",
+    "name": "Pickup NB-185",
+    "status": "maintenance",
+    "lat": 53.48408,
+    "lng": -2.1523,
+    "lastUpdate": "2026-10-22T11:06:48.000Z"
+  },
+  {
+    "id": "V-186",
+    "name": "Lorry NB-186",
+    "status": "idle",
+    "lat": 53.47626,
+    "lng": -2.27228,
+    "lastUpdate": "2026-10-22T11:28:42.000Z"
+  },
+  {
+    "id": "V-187",
+    "name": "Truck NB-187",
+    "status": "active",
+    "lat": 53.4909,
+    "lng": -2.34624,
+    "lastUpdate": "2026-10-23T04:53:14.000Z"
+  },
+  {
+    "id": "V-188",
+    "name": "Pickup NB-188",
+    "status": "active",
+    "lat": 53.43572,
+    "lng": -2.31545,
+    "lastUpdate": "2026-10-22T22:48:22.000Z"
+  },
+  {
+    "id": "V-189",
+    "name": "Lorry NB-189",
+    "status": "active",
+    "lat": 53.50752,
+    "lng": -2.17836,
+    "lastUpdate": "2026-10-22T12:32:45.000Z"
+  },
+  {
+    "id": "V-190",
+    "name": "Truck NB-190",
+    "status": "maintenance",
+    "lat": 53.45475,
+    "lng": -2.29886,
+    "lastUpdate": "2026-10-23T06:35:38.000Z"
+  },
+  {
+    "id": "V-191",
+    "name": "Pickup NB-191",
+    "status": "maintenance",
+    "lat": 53.53364,
+    "lng": -2.25213,
+    "lastUpdate": "2026-10-23T01:56:22.000Z"
+  },
+  {
+    "id": "V-192",
+    "name": "Pickup NB-192",
+    "status": "idle",
+    "lat": 53.44124,
+    "lng": -2.17148,
+    "lastUpdate": "2026-10-22T12:52:58.000Z"
+  },
+  {
+    "id": "V-193",
+    "name": "Pickup NB-193",
+    "status": "idle",
+    "lat": 53.47686,
+    "lng": -2.16743,
+    "lastUpdate": "2026-10-22T22:13:24.000Z"
+  },
+  {
+    "id": "V-194",
+    "name": "Lorry NB-194",
+    "status": "maintenance",
+    "lat": 53.41291,
+    "lng": -2.17483,
+    "lastUpdate": "2026-10-22T14:45:10.000Z"
+  },
+  {
+    "id": "V-195",
+    "name": "Lorry NB-195",
+    "status": "active",
+    "lat": 53.4178,
+    "lng": -2.18218,
+    "lastUpdate": "2026-10-22T22:35:17.000Z"
+  },
+  {
+    "id": "V-196",
+    "name": "Pickup NB-196",
+    "status": "offline",
+    "lat": 53.46144,
+    "lng": -2.27664,
+    "lastUpdate": "2026-10-22T19:09:59.000Z"
+  },
+  {
+    "id": "V-197",
+    "name": "Van NB-197",
+    "status": "active",
+    "lat": 53.54496,
+    "lng": -2.1579,
+    "lastUpdate": "2026-10-22T18:22:29.000Z"
+  },
+  {
+    "id": "V-198",
+    "name": "Pickup NB-198",
+    "status": "active",
+    "lat": 53.4129,
+    "lng": -2.17447,
+    "lastUpdate": "2026-10-23T01:07:58.000Z"
+  },
+  {
+    "id": "V-199",
+    "name": "Truck NB-199",
+    "status": "offline",
+    "lat": 53.49921,
+    "lng": -2.3006,
+    "lastUpdate": "2026-10-23T00:41:27.000Z"
+  },
+  {
+    "id": "V-200",
+    "name": "Van NB-200",
+    "status": "active",
+    "lat": 53.53432,
+    "lng": -2.15235,
+    "lastUpdate": "2026-10-22T16:34:48.000Z"
+  },
+  {
+    "id": "V-201",
+    "name": "Truck NB-201",
+    "status": "maintenance",
+    "lat": 53.42627,
+    "lng": -2.23461,
+    "lastUpdate": "2026-10-22T20:56:26.000Z"
+  },
+  {
+    "id": "V-202",
+    "name": "Pickup NB-202",
+    "status": "active",
+    "lat": 53.47337,
+    "lng": -2.25485,
+    "lastUpdate": "2026-10-22T20:14:39.000Z"
+  },
+  {
+    "id": "V-203",
+    "name": "Pickup NB-203",
+    "status": "active",
+    "lat": 53.50257,
+    "lng": -2.18791,
+    "lastUpdate": "2026-10-22T17:10:01.000Z"
+  },
+  {
+    "id": "V-204",
+    "name": "Van NB-204",
+    "status": "active",
+    "lat": 53.42613,
+    "lng": -2.17528,
+    "lastUpdate": "2026-10-23T05:36:26.000Z"
+  },
+  {
+    "id": "V-205",
+    "name": "Pickup NB-205",
+    "status": "maintenance",
+    "lat": 53.44177,
+    "lng": -2.34415,
+    "lastUpdate": "2026-10-22T20:01:32.000Z"
+  },
+  {
+    "id": "V-206",
+    "name": "Van NB-206",
+    "status": "maintenance",
+    "lat": 53.47144,
+    "lng": -2.30287,
+    "lastUpdate": "2026-10-22T17:07:36.000Z"
+  },
+  {
+    "id": "V-207",
+    "name": "Pickup NB-207",
+    "status": "active",
+    "lat": 53.52588,
+    "lng": -2.1542,
+    "lastUpdate": "2026-10-23T03:54:17.000Z"
+  },
+  {
+    "id": "V-208",
+    "name": "Van NB-208",
+    "status": "maintenance",
+    "lat": 53.51821,
+    "lng": -2.24533,
+    "lastUpdate": "2026-10-23T06:03:36.000Z"
+  },
+  {
+    "id": "V-209",
+    "name": "Truck NB-209",
+    "status": "active",
+    "lat": 53.52099,
+    "lng": -2.25747,
+    "lastUpdate": "2026-10-23T04:51:04.000Z"
+  },
+  {
+    "id": "V-210",
+    "name": "Truck NB-210",
+    "status": "idle",
+    "lat": 53.50953,
+    "lng": -2.20333,
+    "lastUpdate": "2026-10-22T08:51:43.000Z"
+  },
+  {
+    "id": "V-211",
+    "name": "Truck NB-211",
+    "status": "offline",
+    "lat": 53.53678,
+    "lng": -2.20929,
+    "lastUpdate": "2026-10-22T11:29:39.000Z"
+  },
+  {
+    "id": "V-212",
+    "name": "Truck NB-212",
+    "status": "active",
+    "lat": 53.40895,
+    "lng": -2.2487,
+    "lastUpdate": "2026-10-22T17:04:05.000Z"
+  },
+  {
+    "id": "V-213",
+    "name": "Truck NB-213",
+    "status": "offline",
+    "lat": 53.54531,
+    "lng": -2.20538,
+    "lastUpdate": "2026-10-22T08:32:02.000Z"
+  },
+  {
+    "id": "V-214",
+    "name": "Van NB-214",
+    "status": "maintenance",
+    "lat": 53.41051,
+    "lng": -2.28999,
+    "lastUpdate": "2026-10-22T19:36:48.000Z"
+  },
+  {
+    "id": "V-215",
+    "name": "Pickup NB-215",
+    "status": "offline",
+    "lat": 53.5141,
+    "lng": -2.20034,
+    "lastUpdate": "2026-10-22T12:30:48.000Z"
+  },
+  {
+    "id": "V-216",
+    "name": "Lorry NB-216",
+    "status": "maintenance",
+    "lat": 53.52887,
+    "lng": -2.22983,
+    "lastUpdate": "2026-10-22T10:16:57.000Z"
+  },
+  {
+    "id": "V-217",
+    "name": "Truck NB-217",
+    "status": "idle",
+    "lat": 53.40628,
+    "lng": -2.27633,
+    "lastUpdate": "2026-10-23T03:11:50.000Z"
+  },
+  {
+    "id": "V-218",
+    "name": "Pickup NB-218",
+    "status": "active",
+    "lat": 53.5015,
+    "lng": -2.30574,
+    "lastUpdate": "2026-10-22T13:18:15.000Z"
+  },
+  {
+    "id": "V-219",
+    "name": "Truck NB-219",
+    "status": "active",
+    "lat": 53.42196,
+    "lng": -2.31206,
+    "lastUpdate": "2026-10-22T09:21:35.000Z"
+  },
+  {
+    "id": "V-220",
+    "name": "Lorry NB-220",
+    "status": "active",
+    "lat": 53.44953,
+    "lng": -2.17036,
+    "lastUpdate": "2026-10-22T14:08:37.000Z"
+  },
+  {
+    "id": "V-221",
+    "name": "Van NB-221",
+    "status": "active",
+    "lat": 53.42552,
+    "lng": -2.23382,
+    "lastUpdate": "2026-10-22T10:26:12.000Z"
+  },
+  {
+    "id": "V-222",
+    "name": "Pickup NB-222",
+    "status": "maintenance",
+    "lat": 53.52565,
+    "lng": -2.21092,
+    "lastUpdate": "2026-10-22T14:44:26.000Z"
+  },
+  {
+    "id": "V-223",
+    "name": "Van NB-223",
+    "status": "active",
+    "lat": 53.46179,
+    "lng": -2.30461,
+    "lastUpdate": "2026-10-22T08:57:58.000Z"
+  },
+  {
+    "id": "V-224",
+    "name": "Van NB-224",
+    "status": "idle",
+    "lat": 53.52331,
+    "lng": -2.28259,
+    "lastUpdate": "2026-10-22T10:13:00.000Z"
+  },
+  {
+    "id": "V-225",
+    "name": "Lorry NB-225",
+    "status": "idle",
+    "lat": 53.42759,
+    "lng": -2.31036,
+    "lastUpdate": "2026-10-22T19:48:26.000Z"
+  },
+  {
+    "id": "V-226",
+    "name": "Lorry NB-226",
+    "status": "active",
+    "lat": 53.5247,
+    "lng": -2.33726,
+    "lastUpdate": "2026-10-23T07:02:18.000Z"
+  },
+  {
+    "id": "V-227",
+    "name": "Pickup NB-227",
+    "status": "active",
+    "lat": 53.41954,
+    "lng": -2.22407,
+    "lastUpdate": "2026-10-22T11:01:48.000Z"
+  },
+  {
+    "id": "V-228",
+    "name": "Van NB-228",
+    "status": "active",
+    "lat": 53.40515,
+    "lng": -2.31118,
+    "lastUpdate": "2026-10-23T02:10:12.000Z"
+  },
+  {
+    "id": "V-229",
+    "name": "Lorry NB-229",
+    "status": "offline",
+    "lat": 53.45947,
+    "lng": -2.25055,
+    "lastUpdate": "2026-10-23T00:00:35.000Z"
+  },
+  {
+    "id": "V-230",
+    "name": "Pickup NB-230",
+    "status": "active",
+    "lat": 53.4394,
+    "lng": -2.21233,
+    "lastUpdate": "2026-10-22T20:39:26.000Z"
+  },
+  {
+    "id": "V-231",
+    "name": "Truck NB-231",
+    "status": "offline",
+    "lat": 53.4803,
+    "lng": -2.3374,
+    "lastUpdate": "2026-10-22T10:31:26.000Z"
+  },
+  {
+    "id": "V-232",
+    "name": "Pickup NB-232",
+    "status": "idle",
+    "lat": 53.41752,
+    "lng": -2.32087,
+    "lastUpdate": "2026-10-22T18:48:18.000Z"
+  },
+  {
+    "id": "V-233",
+    "name": "Lorry NB-233",
+    "status": "active",
+    "lat": 53.43494,
+    "lng": -2.30617,
+    "lastUpdate": "2026-10-22T20:27:34.000Z"
+  },
+  {
+    "id": "V-234",
+    "name": "Truck NB-234",
+    "status": "active",
+    "lat": 53.47847,
+    "lng": -2.26044,
+    "lastUpdate": "2026-10-23T06:18:49.000Z"
+  },
+  {
+    "id": "V-235",
+    "name": "Truck NB-235",
+    "status": "idle",
+    "lat": 53.41999,
+    "lng": -2.34521,
+    "lastUpdate": "2026-10-23T01:13:49.000Z"
+  },
+  {
+    "id": "V-236",
+    "name": "Van NB-236",
+    "status": "active",
+    "lat": 53.53808,
+    "lng": -2.17442,
+    "lastUpdate": "2026-10-22T16:52:47.000Z"
+  },
+  {
+    "id": "V-237",
+    "name": "Truck NB-237",
+    "status": "idle",
+    "lat": 53.43285,
+    "lng": -2.16659,
+    "lastUpdate": "2026-10-23T03:13:51.000Z"
+  },
+  {
+    "id": "V-238",
+    "name": "Pickup NB-238",
+    "status": "maintenance",
+    "lat": 53.47728,
+    "lng": -2.22741,
+    "lastUpdate": "2026-10-22T23:46:35.000Z"
+  },
+  {
+    "id": "V-239",
+    "name": "Pickup NB-239",
+    "status": "idle",
+    "lat": 53.43803,
+    "lng": -2.25192,
+    "lastUpdate": "2026-10-23T02:33:11.000Z"
+  },
+  {
+    "id": "V-240",
+    "name": "Truck NB-240",
+    "status": "active",
+    "lat": 53.42032,
+    "lng": -2.25086,
+    "lastUpdate": "2026-10-22T23:54:23.000Z"
+  },
+  {
+    "id": "V-241",
+    "name": "Van NB-241",
+    "status": "active",
+    "lat": 53.44799,
+    "lng": -2.30143,
+    "lastUpdate": "2026-10-22T13:15:09.000Z"
+  },
+  {
+    "id": "V-242",
+    "name": "Van NB-242",
+    "status": "active",
+    "lat": 53.52362,
+    "lng": -2.2176,
+    "lastUpdate": "2026-10-22T21:01:09.000Z"
+  },
+  {
+    "id": "V-243",
+    "name": "Van NB-243",
+    "status": "idle",
+    "lat": 53.41897,
+    "lng": -2.31286,
+    "lastUpdate": "2026-10-22T12:09:43.000Z"
+  },
+  {
+    "id": "V-244",
+    "name": "Van NB-244",
+    "status": "idle",
+    "lat": 53.46098,
+    "lng": -2.19618,
+    "lastUpdate": "2026-10-22T18:16:48.000Z"
+  },
+  {
+    "id": "V-245",
+    "name": "Truck NB-245",
+    "status": "maintenance",
+    "lat": 53.49329,
+    "lng": -2.27217,
+    "lastUpdate": "2026-10-23T02:16:53.000Z"
+  },
+  {
+    "id": "V-246",
+    "name": "Pickup NB-246",
+    "status": "offline",
+    "lat": 53.54007,
+    "lng": -2.19613,
+    "lastUpdate": "2026-10-22T12:46:24.000Z"
+  },
+  {
+    "id": "V-247",
+    "name": "Pickup NB-247",
+    "status": "active",
+    "lat": 53.42762,
+    "lng": -2.32558,
+    "lastUpdate": "2026-10-22T10:07:01.000Z"
+  },
+  {
+    "id": "V-248",
+    "name": "Pickup NB-248",
+    "status": "active",
+    "lat": 53.48219,
+    "lng": -2.29198,
+    "lastUpdate": "2026-10-22T17:28:26.000Z"
+  },
+  {
+    "id": "V-249",
+    "name": "Lorry NB-249",
+    "status": "active",
+    "lat": 53.46242,
+    "lng": -2.15106,
+    "lastUpdate": "2026-10-22T10:59:10.000Z"
+  },
+  {
+    "id": "V-250",
+    "name": "Pickup NB-250",
+    "status": "active",
+    "lat": 53.47911,
+    "lng": -2.1662,
+    "lastUpdate": "2026-10-23T02:23:01.000Z"
+  },
+  {
+    "id": "V-251",
+    "name": "Van NB-251",
+    "status": "active",
+    "lat": 53.46391,
+    "lng": -2.29386,
+    "lastUpdate": "2026-10-22T11:56:51.000Z"
+  },
+  {
+    "id": "V-252",
+    "name": "Lorry NB-252",
+    "status": "idle",
+    "lat": 53.40842,
+    "lng": -2.1632,
+    "lastUpdate": "2026-10-22T23:54:52.000Z"
+  },
+  {
+    "id": "V-253",
+    "name": "Pickup NB-253",
+    "status": "active",
+    "lat": 53.47238,
+    "lng": -2.19093,
+    "lastUpdate": "2026-10-22T14:26:25.000Z"
+  },
+  {
+    "id": "V-254",
+    "name": "Lorry NB-254",
+    "status": "active",
+    "lat": 53.42706,
+    "lng": -2.32953,
+    "lastUpdate": "2026-10-22T20:10:05.000Z"
+  },
+  {
+    "id": "V-255",
+    "name": "Van NB-255",
+    "status": "maintenance",
+    "lat": 53.48302,
+    "lng": -2.22958,
+    "lastUpdate": "2026-10-22T09:43:21.000Z"
+  },
+  {
+    "id": "V-256",
+    "name": "Pickup NB-256",
+    "status": "idle",
+    "lat": 53.44297,
+    "lng": -2.31824,
+    "lastUpdate": "2026-10-23T06:42:13.000Z"
+  },
+  {
+    "id": "V-257",
+    "name": "Van NB-257",
+    "status": "maintenance",
+    "lat": 53.40948,
+    "lng": -2.34115,
+    "lastUpdate": "2026-10-23T06:08:46.000Z"
+  },
+  {
+    "id": "V-258",
+    "name": "Truck NB-258",
+    "status": "active",
+    "lat": 53.46767,
+    "lng": -2.33059,
+    "lastUpdate": "2026-10-22T14:15:35.000Z"
+  },
+  {
+    "id": "V-259",
+    "name": "Lorry NB-259",
+    "status": "active",
+    "lat": 53.47077,
+    "lng": -2.27482,
+    "lastUpdate": "2026-10-23T05:57:04.000Z"
+  },
+  {
+    "id": "V-260",
+    "name": "Lorry NB-260",
+    "status": "idle",
+    "lat": 53.41262,
+    "lng": -2.31782,
+    "lastUpdate": "2026-10-23T06:05:25.000Z"
+  },
+  {
+    "id": "V-261",
+    "name": "Van NB-261",
+    "status": "active",
+    "lat": 53.50926,
+    "lng": -2.20667,
+    "lastUpdate": "2026-10-22T22:48:25.000Z"
+  },
+  {
+    "id": "V-262",
+    "name": "Van NB-262",
+    "status": "active",
+    "lat": 53.5132,
+    "lng": -2.32667,
+    "lastUpdate": "2026-10-23T04:02:40.000Z"
+  },
+  {
+    "id": "V-263",
+    "name": "Truck NB-263",
+    "status": "offline",
+    "lat": 53.46067,
+    "lng": -2.33659,
+    "lastUpdate": "2026-10-23T05:33:45.000Z"
+  },
+  {
+    "id": "V-264",
+    "name": "Lorry NB-264",
+    "status": "idle",
+    "lat": 53.5499,
+    "lng": -2.25753,
+    "lastUpdate": "2026-10-22T21:54:05.000Z"
+  },
+  {
+    "id": "V-265",
+    "name": "Truck NB-265",
+    "status": "active",
+    "lat": 53.51953,
+    "lng": -2.21598,
+    "lastUpdate": "2026-10-23T03:41:16.000Z"
+  },
+  {
+    "id": "V-266",
+    "name": "Lorry NB-266",
+    "status": "offline",
+    "lat": 53.49115,
+    "lng": -2.26417,
+    "lastUpdate": "2026-10-23T01:20:21.000Z"
+  },
+  {
+    "id": "V-267",
+    "name": "Pickup NB-267",
+    "status": "active",
+    "lat": 53.42778,
+    "lng": -2.21724,
+    "lastUpdate": "2026-10-22T09:45:09.000Z"
+  },
+  {
+    "id": "V-268",
+    "name": "Truck NB-268",
+    "status": "offline",
+    "lat": 53.42674,
+    "lng": -2.16887,
+    "lastUpdate": "2026-10-22T23:19:52.000Z"
+  },
+  {
+    "id": "V-269",
+    "name": "Truck NB-269",
+    "status": "active",
+    "lat": 53.45442,
+    "lng": -2.24793,
+    "lastUpdate": "2026-10-22T08:37:34.000Z"
+  },
+  {
+    "id": "V-270",
+    "name": "Lorry NB-270",
+    "status": "active",
+    "lat": 53.40655,
+    "lng": -2.31975,
+    "lastUpdate": "2026-10-23T05:44:29.000Z"
+  },
+  {
+    "id": "V-271",
+    "name": "Lorry NB-271",
+    "status": "active",
+    "lat": 53.40441,
+    "lng": -2.19721,
+    "lastUpdate": "2026-10-22T14:04:37.000Z"
+  },
+  {
+    "id": "V-272",
+    "name": "Pickup NB-272",
+    "status": "active",
+    "lat": 53.49792,
+    "lng": -2.20382,
+    "lastUpdate": "2026-10-22T10:51:16.000Z"
+  },
+  {
+    "id": "V-273",
+    "name": "Van NB-273",
+    "status": "maintenance",
+    "lat": 53.46458,
+    "lng": -2.24764,
+    "lastUpdate": "2026-10-22T08:45:11.000Z"
+  },
+  {
+    "id": "V-274",
+    "name": "Lorry NB-274",
+    "status": "idle",
+    "lat": 53.42846,
+    "lng": -2.25977,
+    "lastUpdate": "2026-10-23T04:13:00.000Z"
+  },
+  {
+    "id": "V-275",
+    "name": "Lorry NB-275",
+    "status": "offline",
+    "lat": 53.48525,
+    "lng": -2.15907,
+    "lastUpdate": "2026-10-23T01:28:34.000Z"
+  },
+  {
+    "id": "V-276",
+    "name": "Van NB-276",
+    "status": "idle",
+    "lat": 53.48402,
+    "lng": -2.33017,
+    "lastUpdate": "2026-10-23T04:12:53.000Z"
+  },
+  {
+    "id": "V-277",
+    "name": "Pickup NB-277",
+    "status": "active",
+    "lat": 53.54929,
+    "lng": -2.15756,
+    "lastUpdate": "2026-10-22T19:11:21.000Z"
+  },
+  {
+    "id": "V-278",
+    "name": "Truck NB-278",
+    "status": "active",
+    "lat": 53.46781,
+    "lng": -2.29987,
+    "lastUpdate": "2026-10-23T01:15:39.000Z"
+  },
+  {
+    "id": "V-279",
+    "name": "Truck NB-279",
+    "status": "active",
+    "lat": 53.54835,
+    "lng": -2.32291,
+    "lastUpdate": "2026-10-22T20:42:19.000Z"
+  },
+  {
+    "id": "V-280",
+    "name": "Van NB-280",
+    "status": "active",
+    "lat": 53.53899,
+    "lng": -2.26432,
+    "lastUpdate": "2026-10-22T19:06:52.000Z"
+  },
+  {
+    "id": "V-281",
+    "name": "Pickup NB-281",
+    "status": "offline",
+    "lat": 53.46088,
+    "lng": -2.20122,
+    "lastUpdate": "2026-10-22T18:49:30.000Z"
+  },
+  {
+    "id": "V-282",
+    "name": "Truck NB-282",
+    "status": "active",
+    "lat": 53.44458,
+    "lng": -2.32644,
+    "lastUpdate": "2026-10-22T09:52:20.000Z"
+  },
+  {
+    "id": "V-283",
+    "name": "Lorry NB-283",
+    "status": "maintenance",
+    "lat": 53.47617,
+    "lng": -2.29672,
+    "lastUpdate": "2026-10-23T00:39:53.000Z"
+  },
+  {
+    "id": "V-284",
+    "name": "Pickup NB-284",
+    "status": "idle",
+    "lat": 53.42772,
+    "lng": -2.16134,
+    "lastUpdate": "2026-10-22T09:35:00.000Z"
+  },
+  {
+    "id": "V-285",
+    "name": "Van NB-285",
+    "status": "active",
+    "lat": 53.53121,
+    "lng": -2.24193,
+    "lastUpdate": "2026-10-23T02:32:36.000Z"
+  },
+  {
+    "id": "V-286",
+    "name": "Van NB-286",
+    "status": "maintenance",
+    "lat": 53.54323,
+    "lng": -2.19785,
+    "lastUpdate": "2026-10-23T03:33:40.000Z"
+  },
+  {
+    "id": "V-287",
+    "name": "Truck NB-287",
+    "status": "active",
+    "lat": 53.43141,
+    "lng": -2.29658,
+    "lastUpdate": "2026-10-22T08:08:53.000Z"
+  },
+  {
+    "id": "V-288",
+    "name": "Van NB-288",
+    "status": "active",
+    "lat": 53.41951,
+    "lng": -2.31249,
+    "lastUpdate": "2026-10-23T03:15:49.000Z"
+  },
+  {
+    "id": "V-289",
+    "name": "Van NB-289",
+    "status": "offline",
+    "lat": 53.4389,
+    "lng": -2.28585,
+    "lastUpdate": "2026-10-22T14:33:04.000Z"
+  },
+  {
+    "id": "V-290",
+    "name": "Van NB-290",
+    "status": "offline",
+    "lat": 53.47897,
+    "lng": -2.21061,
+    "lastUpdate": "2026-10-23T04:50:22.000Z"
+  },
+  {
+    "id": "V-291",
+    "name": "Lorry NB-291",
+    "status": "active",
+    "lat": 53.42298,
+    "lng": -2.19147,
+    "lastUpdate": "2026-10-22T16:19:31.000Z"
+  },
+  {
+    "id": "V-292",
+    "name": "Van NB-292",
+    "status": "active",
+    "lat": 53.41325,
+    "lng": -2.15116,
+    "lastUpdate": "2026-10-22T15:20:34.000Z"
+  },
+  {
+    "id": "V-293",
+    "name": "Truck NB-293",
+    "status": "idle",
+    "lat": 53.42544,
+    "lng": -2.28724,
+    "lastUpdate": "2026-10-23T05:10:17.000Z"
+  },
+  {
+    "id": "V-294",
+    "name": "Lorry NB-294",
+    "status": "active",
+    "lat": 53.44563,
+    "lng": -2.21072,
+    "lastUpdate": "2026-10-22T20:58:58.000Z"
+  },
+  {
+    "id": "V-295",
+    "name": "Truck NB-295",
+    "status": "active",
+    "lat": 53.49334,
+    "lng": -2.22954,
+    "lastUpdate": "2026-10-22T14:55:56.000Z"
+  },
+  {
+    "id": "V-296",
+    "name": "Pickup NB-296",
+    "status": "active",
+    "lat": 53.44812,
+    "lng": -2.25431,
+    "lastUpdate": "2026-10-22T15:22:58.000Z"
+  },
+  {
+    "id": "V-297",
+    "name": "Van NB-297",
+    "status": "offline",
+    "lat": 53.49063,
+    "lng": -2.19558,
+    "lastUpdate": "2026-10-22T17:42:40.000Z"
+  },
+  {
+    "id": "V-298",
+    "name": "Pickup NB-298",
+    "status": "offline",
+    "lat": 53.42827,
+    "lng": -2.34866,
+    "lastUpdate": "2026-10-22T14:28:57.000Z"
+  },
+  {
+    "id": "V-299",
+    "name": "Van NB-299",
+    "status": "offline",
+    "lat": 53.52886,
+    "lng": -2.24712,
+    "lastUpdate": "2026-10-23T07:55:33.000Z"
+  },
+  {
+    "id": "V-300",
+    "name": "Lorry NB-300",
+    "status": "offline",
+    "lat": 53.43048,
+    "lng": -2.3352,
+    "lastUpdate": "2026-10-22T09:25:14.000Z"
+  },
+  {
+    "id": "V-301",
+    "name": "Truck NB-301",
+    "status": "active",
+    "lat": 53.49972,
+    "lng": -2.27181,
+    "lastUpdate": "2026-10-22T23:54:21.000Z"
+  },
+  {
+    "id": "V-302",
+    "name": "Van NB-302",
+    "status": "offline",
+    "lat": 53.53454,
+    "lng": -2.34308,
+    "lastUpdate": "2026-10-22T10:51:32.000Z"
+  },
+  {
+    "id": "V-303",
+    "name": "Truck NB-303",
+    "status": "active",
+    "lat": 53.51357,
+    "lng": -2.1629,
+    "lastUpdate": "2026-10-22T19:57:42.000Z"
+  },
+  {
+    "id": "V-304",
+    "name": "Lorry NB-304",
+    "status": "active",
+    "lat": 53.52543,
+    "lng": -2.15457,
+    "lastUpdate": "2026-10-22T14:36:08.000Z"
+  },
+  {
+    "id": "V-305",
+    "name": "Van NB-305",
+    "status": "maintenance",
+    "lat": 53.53352,
+    "lng": -2.24903,
+    "lastUpdate": "2026-10-22T18:38:23.000Z"
+  },
+  {
+    "id": "V-306",
+    "name": "Truck NB-306",
+    "status": "active",
+    "lat": 53.52541,
+    "lng": -2.15715,
+    "lastUpdate": "2026-10-23T07:17:35.000Z"
+  },
+  {
+    "id": "V-307",
+    "name": "Pickup NB-307",
+    "status": "idle",
+    "lat": 53.47724,
+    "lng": -2.21428,
+    "lastUpdate": "2026-10-23T04:39:13.000Z"
+  },
+  {
+    "id": "V-308",
+    "name": "Pickup NB-308",
+    "status": "active",
+    "lat": 53.49565,
+    "lng": -2.31605,
+    "lastUpdate": "2026-10-23T05:28:43.000Z"
+  },
+  {
+    "id": "V-309",
+    "name": "Van NB-309",
+    "status": "active",
+    "lat": 53.42144,
+    "lng": -2.2801,
+    "lastUpdate": "2026-10-22T12:33:42.000Z"
+  },
+  {
+    "id": "V-310",
+    "name": "Van NB-310",
+    "status": "idle",
+    "lat": 53.40422,
+    "lng": -2.32783,
+    "lastUpdate": "2026-10-22T09:44:42.000Z"
+  },
+  {
+    "id": "V-311",
+    "name": "Van NB-311",
+    "status": "maintenance",
+    "lat": 53.43603,
+    "lng": -2.29984,
+    "lastUpdate": "2026-10-23T01:54:24.000Z"
+  },
+  {
+    "id": "V-312",
+    "name": "Pickup NB-312",
+    "status": "active",
+    "lat": 53.54812,
+    "lng": -2.21594,
+    "lastUpdate": "2026-10-22T15:31:03.000Z"
+  },
+  {
+    "id": "V-313",
+    "name": "Truck NB-313",
+    "status": "idle",
+    "lat": 53.47036,
+    "lng": -2.33464,
+    "lastUpdate": "2026-10-22T16:52:07.000Z"
+  },
+  {
+    "id": "V-314",
+    "name": "Lorry NB-314",
+    "status": "active",
+    "lat": 53.40735,
+    "lng": -2.16612,
+    "lastUpdate": "2026-10-22T12:39:22.000Z"
+  },
+  {
+    "id": "V-315",
+    "name": "Van NB-315",
+    "status": "active",
+    "lat": 53.48274,
+    "lng": -2.21631,
+    "lastUpdate": "2026-10-22T20:19:10.000Z"
+  },
+  {
+    "id": "V-316",
+    "name": "Lorry NB-316",
+    "status": "active",
+    "lat": 53.52481,
+    "lng": -2.26286,
+    "lastUpdate": "2026-10-23T04:43:20.000Z"
+  },
+  {
+    "id": "V-317",
+    "name": "Lorry NB-317",
+    "status": "offline",
+    "lat": 53.50229,
+    "lng": -2.20647,
+    "lastUpdate": "2026-10-22T16:52:14.000Z"
+  },
+  {
+    "id": "V-318",
+    "name": "Truck NB-318",
+    "status": "active",
+    "lat": 53.44224,
+    "lng": -2.1877,
+    "lastUpdate": "2026-10-23T02:11:43.000Z"
+  },
+  {
+    "id": "V-319",
+    "name": "Pickup NB-319",
+    "status": "idle",
+    "lat": 53.49963,
+    "lng": -2.317,
+    "lastUpdate": "2026-10-22T10:33:47.000Z"
+  },
+  {
+    "id": "V-320",
+    "name": "Pickup NB-320",
+    "status": "maintenance",
+    "lat": 53.51391,
+    "lng": -2.3013,
+    "lastUpdate": "2026-10-22T11:05:41.000Z"
+  },
+  {
+    "id": "V-321",
+    "name": "Pickup NB-321",
+    "status": "active",
+    "lat": 53.42909,
+    "lng": -2.22245,
+    "lastUpdate": "2026-10-22T10:24:44.000Z"
+  },
+  {
+    "id": "V-322",
+    "name": "Truck NB-322",
+    "status": "idle",
+    "lat": 53.44805,
+    "lng": -2.22451,
+    "lastUpdate": "2026-10-23T06:19:24.000Z"
+  },
+  {
+    "id": "V-323",
+    "name": "Truck NB-323",
+    "status": "active",
+    "lat": 53.41452,
+    "lng": -2.32464,
+    "lastUpdate": "2026-10-23T03:26:23.000Z"
+  },
+  {
+    "id": "V-324",
+    "name": "Lorry NB-324",
+    "status": "active",
+    "lat": 53.42573,
+    "lng": -2.2005,
+    "lastUpdate": "2026-10-22T21:20:23.000Z"
+  },
+  {
+    "id": "V-325",
+    "name": "Truck NB-325",
+    "status": "active",
+    "lat": 53.49032,
+    "lng": -2.2173,
+    "lastUpdate": "2026-10-22T14:40:24.000Z"
+  },
+  {
+    "id": "V-326",
+    "name": "Van NB-326",
+    "status": "idle",
+    "lat": 53.52113,
+    "lng": -2.32327,
+    "lastUpdate": "2026-10-22T12:59:17.000Z"
+  },
+  {
+    "id": "V-327",
+    "name": "Van NB-327",
+    "status": "active",
+    "lat": 53.45479,
+    "lng": -2.22991,
+    "lastUpdate": "2026-10-23T00:22:11.000Z"
+  },
+  {
+    "id": "V-328",
+    "name": "Van NB-328",
+    "status": "active",
+    "lat": 53.46157,
+    "lng": -2.20519,
+    "lastUpdate": "2026-10-22T20:39:29.000Z"
+  },
+  {
+    "id": "V-329",
+    "name": "Lorry NB-329",
+    "status": "idle",
+    "lat": 53.51903,
+    "lng": -2.24176,
+    "lastUpdate": "2026-10-22T09:44:28.000Z"
+  },
+  {
+    "id": "V-330",
+    "name": "Pickup NB-330",
+    "status": "active",
+    "lat": 53.53232,
+    "lng": -2.16928,
+    "lastUpdate": "2026-10-23T07:06:34.000Z"
+  },
+  {
+    "id": "V-331",
+    "name": "Truck NB-331",
+    "status": "offline",
+    "lat": 53.46577,
+    "lng": -2.24072,
+    "lastUpdate": "2026-10-22T21:06:56.000Z"
+  },
+  {
+    "id": "V-332",
+    "name": "Truck NB-332",
+    "status": "active",
+    "lat": 53.45119,
+    "lng": -2.17011,
+    "lastUpdate": "2026-10-23T01:23:25.000Z"
+  },
+  {
+    "id": "V-333",
+    "name": "Truck NB-333",
+    "status": "maintenance",
+    "lat": 53.48069,
+    "lng": -2.31246,
+    "lastUpdate": "2026-10-22T14:51:25.000Z"
+  },
+  {
+    "id": "V-334",
+    "name": "Truck NB-334",
+    "status": "idle",
+    "lat": 53.49265,
+    "lng": -2.16536,
+    "lastUpdate": "2026-10-22T22:00:39.000Z"
+  },
+  {
+    "id": "V-335",
+    "name": "Van NB-335",
+    "status": "active",
+    "lat": 53.4478,
+    "lng": -2.20009,
+    "lastUpdate": "2026-10-22T12:52:59.000Z"
+  },
+  {
+    "id": "V-336",
+    "name": "Truck NB-336",
+    "status": "offline",
+    "lat": 53.43823,
+    "lng": -2.34124,
+    "lastUpdate": "2026-10-22T18:14:25.000Z"
+  },
+  {
+    "id": "V-337",
+    "name": "Lorry NB-337",
+    "status": "active",
+    "lat": 53.4996,
+    "lng": -2.18586,
+    "lastUpdate": "2026-10-22T16:20:32.000Z"
+  },
+  {
+    "id": "V-338",
+    "name": "Pickup NB-338",
+    "status": "active",
+    "lat": 53.45827,
+    "lng": -2.29629,
+    "lastUpdate": "2026-10-22T11:16:43.000Z"
+  },
+  {
+    "id": "V-339",
+    "name": "Van NB-339",
+    "status": "active",
+    "lat": 53.50894,
+    "lng": -2.34008,
+    "lastUpdate": "2026-10-22T13:55:45.000Z"
+  },
+  {
+    "id": "V-340",
+    "name": "Pickup NB-340",
+    "status": "active",
+    "lat": 53.47449,
+    "lng": -2.327,
+    "lastUpdate": "2026-10-22T22:26:05.000Z"
+  },
+  {
+    "id": "V-341",
+    "name": "Truck NB-341",
+    "status": "offline",
+    "lat": 53.54895,
+    "lng": -2.29754,
+    "lastUpdate": "2026-10-22T12:23:30.000Z"
+  },
+  {
+    "id": "V-342",
+    "name": "Van NB-342",
+    "status": "offline",
+    "lat": 53.50892,
+    "lng": -2.22102,
+    "lastUpdate": "2026-10-23T07:34:05.000Z"
+  },
+  {
+    "id": "V-343",
+    "name": "Lorry NB-343",
+    "status": "active",
+    "lat": 53.40898,
+    "lng": -2.31587,
+    "lastUpdate": "2026-10-23T03:07:15.000Z"
+  },
+  {
+    "id": "V-344",
+    "name": "Lorry NB-344",
+    "status": "offline",
+    "lat": 53.43753,
+    "lng": -2.34037,
+    "lastUpdate": "2026-10-23T07:36:45.000Z"
+  },
+  {
+    "id": "V-345",
+    "name": "Lorry NB-345",
+    "status": "idle",
+    "lat": 53.53165,
+    "lng": -2.16157,
+    "lastUpdate": "2026-10-22T22:50:31.000Z"
+  },
+  {
+    "id": "V-346",
+    "name": "Lorry NB-346",
+    "status": "offline",
+    "lat": 53.50062,
+    "lng": -2.31326,
+    "lastUpdate": "2026-10-22T13:11:29.000Z"
+  },
+  {
+    "id": "V-347",
+    "name": "Van NB-347",
+    "status": "idle",
+    "lat": 53.48296,
+    "lng": -2.28882,
+    "lastUpdate": "2026-10-22T18:52:31.000Z"
+  },
+  {
+    "id": "V-348",
+    "name": "Truck NB-348",
+    "status": "active",
+    "lat": 53.42547,
+    "lng": -2.20188,
+    "lastUpdate": "2026-10-22T12:14:08.000Z"
+  },
+  {
+    "id": "V-349",
+    "name": "Pickup NB-349",
+    "status": "idle",
+    "lat": 53.47886,
+    "lng": -2.22494,
+    "lastUpdate": "2026-10-22T18:40:27.000Z"
+  },
+  {
+    "id": "V-350",
+    "name": "Pickup NB-350",
+    "status": "active",
+    "lat": 53.43107,
+    "lng": -2.32522,
+    "lastUpdate": "2026-10-23T00:23:40.000Z"
+  },
+  {
+    "id": "V-351",
+    "name": "Van NB-351",
+    "status": "active",
+    "lat": 53.41612,
+    "lng": -2.17009,
+    "lastUpdate": "2026-10-22T22:27:49.000Z"
+  },
+  {
+    "id": "V-352",
+    "name": "Pickup NB-352",
+    "status": "idle",
+    "lat": 53.47037,
+    "lng": -2.18018,
+    "lastUpdate": "2026-10-22T11:05:34.000Z"
+  },
+  {
+    "id": "V-353",
+    "name": "Van NB-353",
+    "status": "offline",
+    "lat": 53.54191,
+    "lng": -2.18073,
+    "lastUpdate": "2026-10-23T03:19:02.000Z"
+  },
+  {
+    "id": "V-354",
+    "name": "Truck NB-354",
+    "status": "active",
+    "lat": 53.47371,
+    "lng": -2.21666,
+    "lastUpdate": "2026-10-22T19:46:06.000Z"
+  },
+  {
+    "id": "V-355",
+    "name": "Truck NB-355",
+    "status": "idle",
+    "lat": 53.45807,
+    "lng": -2.2603,
+    "lastUpdate": "2026-10-23T04:44:22.000Z"
+  },
+  {
+    "id": "V-356",
+    "name": "Van NB-356",
+    "status": "active",
+    "lat": 53.46605,
+    "lng": -2.3264,
+    "lastUpdate": "2026-10-22T08:37:19.000Z"
+  },
+  {
+    "id": "V-357",
+    "name": "Truck NB-357",
+    "status": "active",
+    "lat": 53.48692,
+    "lng": -2.34007,
+    "lastUpdate": "2026-10-22T15:59:05.000Z"
+  },
+  {
+    "id": "V-358",
+    "name": "Van NB-358",
+    "status": "active",
+    "lat": 53.43796,
+    "lng": -2.20568,
+    "lastUpdate": "2026-10-22T16:18:11.000Z"
+  },
+  {
+    "id": "V-359",
+    "name": "Lorry NB-359",
+    "status": "active",
+    "lat": 53.45391,
+    "lng": -2.25096,
+    "lastUpdate": "2026-10-23T04:45:34.000Z"
+  },
+  {
+    "id": "V-360",
+    "name": "Lorry NB-360",
+    "status": "active",
+    "lat": 53.41554,
+    "lng": -2.32456,
+    "lastUpdate": "2026-10-23T00:59:26.000Z"
+  },
+  {
+    "id": "V-361",
+    "name": "Truck NB-361",
+    "status": "idle",
+    "lat": 53.50741,
+    "lng": -2.30523,
+    "lastUpdate": "2026-10-23T02:35:27.000Z"
+  },
+  {
+    "id": "V-362",
+    "name": "Truck NB-362",
+    "status": "active",
+    "lat": 53.53656,
+    "lng": -2.27642,
+    "lastUpdate": "2026-10-23T03:37:50.000Z"
+  },
+  {
+    "id": "V-363",
+    "name": "Van NB-363",
+    "status": "active",
+    "lat": 53.51309,
+    "lng": -2.28976,
+    "lastUpdate": "2026-10-22T08:16:43.000Z"
+  },
+  {
+    "id": "V-364",
+    "name": "Van NB-364",
+    "status": "active",
+    "lat": 53.52505,
+    "lng": -2.21366,
+    "lastUpdate": "2026-10-22T16:49:49.000Z"
+  },
+  {
+    "id": "V-365",
+    "name": "Truck NB-365",
+    "status": "offline",
+    "lat": 53.40461,
+    "lng": -2.22101,
+    "lastUpdate": "2026-10-22T17:21:01.000Z"
+  },
+  {
+    "id": "V-366",
+    "name": "Pickup NB-366",
+    "status": "offline",
+    "lat": 53.53566,
+    "lng": -2.16919,
+    "lastUpdate": "2026-10-23T02:35:23.000Z"
+  },
+  {
+    "id": "V-367",
+    "name": "Lorry NB-367",
+    "status": "active",
+    "lat": 53.44185,
+    "lng": -2.3041,
+    "lastUpdate": "2026-10-23T06:02:02.000Z"
+  },
+  {
+    "id": "V-368",
+    "name": "Lorry NB-368",
+    "status": "active",
+    "lat": 53.42024,
+    "lng": -2.21227,
+    "lastUpdate": "2026-10-22T21:13:25.000Z"
+  },
+  {
+    "id": "V-369",
+    "name": "Van NB-369",
+    "status": "maintenance",
+    "lat": 53.49101,
+    "lng": -2.31324,
+    "lastUpdate": "2026-10-22T12:13:38.000Z"
+  },
+  {
+    "id": "V-370",
+    "name": "Lorry NB-370",
+    "status": "active",
+    "lat": 53.48397,
+    "lng": -2.26341,
+    "lastUpdate": "2026-10-23T04:15:26.000Z"
+  },
+  {
+    "id": "V-371",
+    "name": "Van NB-371",
+    "status": "active",
+    "lat": 53.41279,
+    "lng": -2.2304,
+    "lastUpdate": "2026-10-22T18:32:03.000Z"
+  },
+  {
+    "id": "V-372",
+    "name": "Van NB-372",
+    "status": "idle",
+    "lat": 53.44737,
+    "lng": -2.325,
+    "lastUpdate": "2026-10-22T09:40:23.000Z"
+  },
+  {
+    "id": "V-373",
+    "name": "Van NB-373",
+    "status": "active",
+    "lat": 53.41933,
+    "lng": -2.29649,
+    "lastUpdate": "2026-10-22T13:25:31.000Z"
+  },
+  {
+    "id": "V-374",
+    "name": "Van NB-374",
+    "status": "idle",
+    "lat": 53.53994,
+    "lng": -2.15942,
+    "lastUpdate": "2026-10-22T18:22:11.000Z"
+  },
+  {
+    "id": "V-375",
+    "name": "Van NB-375",
+    "status": "idle",
+    "lat": 53.43553,
+    "lng": -2.23982,
+    "lastUpdate": "2026-10-23T07:42:25.000Z"
+  },
+  {
+    "id": "V-376",
+    "name": "Van NB-376",
+    "status": "active",
+    "lat": 53.51224,
+    "lng": -2.15809,
+    "lastUpdate": "2026-10-23T06:51:26.000Z"
+  },
+  {
+    "id": "V-377",
+    "name": "Pickup NB-377",
+    "status": "active",
+    "lat": 53.41483,
+    "lng": -2.22029,
+    "lastUpdate": "2026-10-23T05:32:11.000Z"
+  },
+  {
+    "id": "V-378",
+    "name": "Pickup NB-378",
+    "status": "active",
+    "lat": 53.50562,
+    "lng": -2.25772,
+    "lastUpdate": "2026-10-22T20:24:38.000Z"
+  },
+  {
+    "id": "V-379",
+    "name": "Lorry NB-379",
+    "status": "offline",
+    "lat": 53.51363,
+    "lng": -2.23851,
+    "lastUpdate": "2026-10-23T03:27:02.000Z"
+  },
+  {
+    "id": "V-380",
+    "name": "Lorry NB-380",
+    "status": "maintenance",
+    "lat": 53.45939,
+    "lng": -2.21368,
+    "lastUpdate": "2026-10-22T18:46:20.000Z"
+  },
+  {
+    "id": "V-381",
+    "name": "Truck NB-381",
+    "status": "active",
+    "lat": 53.47262,
+    "lng": -2.15211,
+    "lastUpdate": "2026-10-22T08:25:50.000Z"
+  },
+  {
+    "id": "V-382",
+    "name": "Truck NB-382",
+    "status": "active",
+    "lat": 53.50996,
+    "lng": -2.34893,
+    "lastUpdate": "2026-10-23T05:47:46.000Z"
+  },
+  {
+    "id": "V-383",
+    "name": "Van NB-383",
+    "status": "active",
+    "lat": 53.53141,
+    "lng": -2.24498,
+    "lastUpdate": "2026-10-22T10:31:42.000Z"
+  },
+  {
+    "id": "V-384",
+    "name": "Truck NB-384",
+    "status": "active",
+    "lat": 53.5161,
+    "lng": -2.34729,
+    "lastUpdate": "2026-10-22T21:28:25.000Z"
+  },
+  {
+    "id": "V-385",
+    "name": "Truck NB-385",
+    "status": "maintenance",
+    "lat": 53.47155,
+    "lng": -2.34568,
+    "lastUpdate": "2026-10-22T16:51:13.000Z"
+  },
+  {
+    "id": "V-386",
+    "name": "Truck NB-386",
+    "status": "active",
+    "lat": 53.42019,
+    "lng": -2.18747,
+    "lastUpdate": "2026-10-22T19:21:36.000Z"
+  },
+  {
+    "id": "V-387",
+    "name": "Pickup NB-387",
+    "status": "offline",
+    "lat": 53.45288,
+    "lng": -2.18433,
+    "lastUpdate": "2026-10-23T07:47:40.000Z"
+  },
+  {
+    "id": "V-388",
+    "name": "Pickup NB-388",
+    "status": "active",
+    "lat": 53.5382,
+    "lng": -2.29021,
+    "lastUpdate": "2026-10-23T04:19:02.000Z"
+  },
+  {
+    "id": "V-389",
+    "name": "Lorry NB-389",
+    "status": "idle",
+    "lat": 53.44883,
+    "lng": -2.17307,
+    "lastUpdate": "2026-10-22T09:40:08.000Z"
+  },
+  {
+    "id": "V-390",
+    "name": "Pickup NB-390",
+    "status": "maintenance",
+    "lat": 53.47768,
+    "lng": -2.22355,
+    "lastUpdate": "2026-10-22T17:23:40.000Z"
+  },
+  {
+    "id": "V-391",
+    "name": "Van NB-391",
+    "status": "active",
+    "lat": 53.44724,
+    "lng": -2.33439,
+    "lastUpdate": "2026-10-22T15:41:00.000Z"
+  },
+  {
+    "id": "V-392",
+    "name": "Lorry NB-392",
+    "status": "active",
+    "lat": 53.43416,
+    "lng": -2.197,
+    "lastUpdate": "2026-10-23T04:39:26.000Z"
+  },
+  {
+    "id": "V-393",
+    "name": "Lorry NB-393",
+    "status": "maintenance",
+    "lat": 53.45712,
+    "lng": -2.30033,
+    "lastUpdate": "2026-10-22T08:27:24.000Z"
+  },
+  {
+    "id": "V-394",
+    "name": "Truck NB-394",
+    "status": "offline",
+    "lat": 53.40537,
+    "lng": -2.28366,
+    "lastUpdate": "2026-10-23T03:34:14.000Z"
+  },
+  {
+    "id": "V-395",
+    "name": "Pickup NB-395",
+    "status": "active",
+    "lat": 53.53262,
+    "lng": -2.23886,
+    "lastUpdate": "2026-10-22T19:44:18.000Z"
+  },
+  {
+    "id": "V-396",
+    "name": "Truck NB-396",
+    "status": "idle",
+    "lat": 53.48095,
+    "lng": -2.17499,
+    "lastUpdate": "2026-10-22T15:19:18.000Z"
+  },
+  {
+    "id": "V-397",
+    "name": "Pickup NB-397",
+    "status": "active",
+    "lat": 53.46,
+    "lng": -2.33559,
+    "lastUpdate": "2026-10-22T20:22:58.000Z"
+  },
+  {
+    "id": "V-398",
+    "name": "Pickup NB-398",
+    "status": "active",
+    "lat": 53.54592,
+    "lng": -2.18163,
+    "lastUpdate": "2026-10-22T18:50:58.000Z"
+  },
+  {
+    "id": "V-399",
+    "name": "Lorry NB-399",
+    "status": "idle",
+    "lat": 53.52682,
+    "lng": -2.33682,
+    "lastUpdate": "2026-10-23T01:52:21.000Z"
+  },
+  {
+    "id": "V-400",
+    "name": "Pickup NB-400",
+    "status": "active",
+    "lat": 53.5039,
+    "lng": -2.25693,
+    "lastUpdate": "2026-10-22T11:28:36.000Z"
+  }
+]

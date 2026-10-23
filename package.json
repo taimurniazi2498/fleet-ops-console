@@ -4,11 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "lint": "eslint .",
+  "preview": "vite preview",
+  "generate": "node scripts/generate-vehicles.js",
+  "test": "vitest run",
+  "test:watch": "vitest"
+},
   "dependencies": {
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
